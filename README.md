@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Revnexa — Evidence-First Revenue Intelligence Platform
 
 **Tagline:** Turn conversation signals into revenue action.
@@ -420,3 +421,6 @@ Approximately 8 hours of development time.
 ## License
 
 This is a paid assignment submission. Do not publish the dataset or assignment materials publicly.
+=======
+# Revnexa
+>>>>>>> 25227dac26b9578022ac0643183c662f0fd8174c
