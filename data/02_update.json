@@ -1,0 +1,48 @@
+{
+  "batch_id": "batch-update-2026-08-22",
+  "revision": 2,
+  "exported_at": "2026-08-22T06:00:00Z",
+  "records": [
+    {
+      "record_ref": "M07",
+      "source_type": "meeting",
+      "source_id": "f9e8d7c6-b5a4-5938-8271-6f5e4d3c2b1a",
+      "payload": {
+        "id": "f9e8d7c6-b5a4-5938-8271-6f5e4d3c2b1a",
+        "source_time": "2026-08-21T10:00:00Z",
+        "title": "Glenwood Partners / SpendNest partnership expansion",
+        "duration_seconds": 1980,
+        "attendees": ["Partner B", "Team member A"],
+        "company": "Glenwood Partners",
+        "summary": null,
+        "classification_reason": null,
+        "meeting_redacted": true
+      },
+      "transcript_payload": {
+        "meeting_id": "f9e8d7c6-b5a4-5938-8271-6f5e4d3c2b1a",
+        "turns": [
+          {"turn": 1, "timecode": "00:01:15", "speaker": "Partner B", "text": "We have been referring clients for about eight months now. The main question from my side is whether we can expand the arrangement to cover more jurisdictions. We are seeing interest from clients incorporating in the UAE and Singapore."},
+          {"turn": 2, "timecode": "00:02:00", "speaker": "Team member A", "text": "We support Singapore-entity businesses already. For UAE, the requirement is that the business has a registered entity and intended operational activity. Can you tell me more about the type of clients you are referring?"},
+          {"turn": 3, "timecode": "00:03:10", "speaker": "Partner B", "text": "Mostly small professional services firms. Some are just starting and do not have much trading history yet. That has been a problem with compliance approvals in the past."},
+          {"turn": 4, "timecode": "00:03:45", "speaker": "Team member A", "text": "For newly formed businesses, the compliance requirement for evidence of operations can be the sticking point. We have had referrals that were delayed because the client could not provide contracts or service agreements at the point of onboarding."},
+          {"turn": 5, "timecode": "00:04:50", "speaker": "Partner B", "text": "Is there anything we can do to prepare clients better before they apply? I do not want to refer someone who then gets declined, because it reflects on us."},
+          {"turn": 6, "timecode": "00:05:30", "speaker": "Team member A", "text": "Yes. We can share a checklist of what compliance looks for. If the client has at least a signed engagement letter and a proof of intended business activity, that helps. We would rather you send us clients who are ready than rush an application that gets declined."},
+          {"turn": 7, "timecode": "00:07:10", "speaker": "Partner B", "text": "That makes sense. On the commission side, we have noticed a gap in the tracking sheet. Two clients we referred in June do not appear to have their commissions recorded, even though I believe they completed onboarding."},
+          {"turn": 8, "timecode": "00:07:55", "speaker": "Team member A", "text": "I will check those records. Can you send me the company names and the approximate dates you made the introductions? I want to make sure those are resolved before we discuss expanding the arrangement."},
+          {"turn": 9, "timecode": "00:09:00", "speaker": "Partner B", "text": "I will send you the details after this call. The other thing I wanted to raise is volume. We are expecting a larger cohort of clients from a new industry partnership we announced recently. That could mean fifteen to twenty referrals in a single month."},
+          {"turn": 10, "timecode": "00:09:55", "speaker": "Team member A", "text": "That is a meaningful volume jump. We will need to make sure the referral link and the intake process can handle that without creating a backlog in our compliance review queue. Let me speak with the operations team and come back to you on capacity."},
+          {"turn": 11, "timecode": "00:11:20", "speaker": "Partner B", "text": "Also, clients are asking whether there is a mobile application. They want to see their account balance and initiate transfers from a phone."},
+          {"turn": 12, "timecode": "00:11:45", "speaker": "Team member A", "text": "There is a mobile-responsive web interface. A dedicated app for iOS and Android is on the roadmap, but I cannot give you a committed date. I do not want to promise something that then takes longer than expected."},
+          {"turn": 13, "timecode": "00:13:00", "speaker": "Partner B", "text": "Understood. I will manage expectations with clients accordingly. One more thing: some clients want to hold funds in multiple currencies. What is the current position on that?"},
+          {"turn": 14, "timecode": "00:13:30", "speaker": "Team member A", "text": "Multi-currency wallets are supported. The client can hold and convert between currencies subject to the available pairs and conversion fees. I will include that detail in the updated documentation I send you."},
+          {"turn": 15, "timecode": "00:15:00", "speaker": "Partner B", "text": "Good. If we are expanding the arrangement, I would also want a named contact on your side who knows our account and can answer compliance questions quickly. The current situation where I email a general address is not working well enough."},
+          {"turn": 16, "timecode": "00:15:40", "speaker": "Team member A", "text": "That is a fair point. I will assign a dedicated partner success contact to the Glenwood Partners account. You will hear from them this week. They will also be able to follow up on those June commission items directly."},
+          {"turn": 17, "timecode": "00:17:00", "speaker": "Partner B", "text": "That would make a real difference. Let us plan to review the expansion terms once you have confirmed the capacity question and sorted out the commission discrepancy."},
+          {"turn": 18, "timecode": "00:17:30", "speaker": "Team member A", "text": "Agreed. I will send the compliance checklist, updated partner documentation and the name of your success contact by end of this week. We can then arrange a short call to finalise the expanded arrangement."},
+          {"turn": 19, "timecode": "00:18:10", "speaker": "Partner B", "text": "That works for me. Thank you for making time."},
+          {"turn": 20, "timecode": "00:18:20", "speaker": "Team member A", "text": "Likewise. I look forward to sending the information and resolving the commission questions."}
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1249 @@
+[
+  {
+    "source_type": "call",
+    "source_id": "2ec4404c-beee-5377-a63c-aab701da08ed",
+    "record_ref": "C01",
+    "applied_source_revision": 1,
+    "title": "C01",
+    "person_label": "Arun",
+    "transcript_available": true,
+    "suggested_routes": [
+      "Do Not Contact",
+      "Deal Next Steps",
+      "Sales Coaching",
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Do Not Contact",
+      "Deal Next Steps",
+      "Sales Coaching",
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C01/Do_Not_Contact.md",
+      "calls/C01/Deal_Next_Steps.md",
+      "calls/C01/Sales_Coaching.md",
+      "calls/C01/Human_Decision_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Needs Review",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Do Not Contact",
+      "Deal Next Steps",
+      "Sales Coaching",
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "4b870624-8aad-5315-a60e-0db95981cf99",
+    "record_ref": "C02",
+    "applied_source_revision": 1,
+    "title": "C02",
+    "person_label": "unknown",
+    "transcript_available": true,
+    "suggested_routes": [
+      "No Action Required"
+    ],
+    "approved_routes": [
+      "No Action Required"
+    ],
+    "output_paths": [
+      "calls/C02/No_Action_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "pending",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "No Action Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "20d509ba-d589-5334-9aef-ea4ce6105b1a",
+    "record_ref": "C03",
+    "applied_source_revision": 1,
+    "title": "C03",
+    "person_label": "Kiran",
+    "transcript_available": true,
+    "suggested_routes": [
+      "Customer Follow-up",
+      "Sales Coaching",
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Customer Follow-up",
+      "Sales Coaching",
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C03/Customer_Follow-up.md",
+      "calls/C03/Sales_Coaching.md",
+      "calls/C03/Human_Decision_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Needs Review",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Customer Follow-up",
+      "Sales Coaching",
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "bcdcbf56-d338-5c78-9a97-42c2fc1c9931",
+    "record_ref": "C04",
+    "applied_source_revision": 1,
+    "title": "C04",
+    "person_label": "Arun",
+    "transcript_available": true,
+    "suggested_routes": [
+      "Internal/Vendor Notes",
+      "Customer Follow-up"
+    ],
+    "approved_routes": [
+      "Internal/Vendor Notes",
+      "Customer Follow-up"
+    ],
+    "output_paths": [
+      "calls/C04/Internal_Vendor_Notes.md",
+      "calls/C04/Customer_Follow-up.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "pending",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Internal/Vendor Notes",
+      "Customer Follow-up"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "75a6b94f-7717-5cfb-9e41-0acc94415e17",
+    "record_ref": "C05",
+    "applied_source_revision": 1,
+    "title": "C05",
+    "person_label": "Meera",
+    "transcript_available": true,
+    "suggested_routes": [
+      "Do Not Contact",
+      "Customer Follow-up",
+      "Sales Coaching",
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Do Not Contact",
+      "Customer Follow-up",
+      "Sales Coaching",
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C05/Do_Not_Contact.md",
+      "calls/C05/Customer_Follow-up.md",
+      "calls/C05/Sales_Coaching.md",
+      "calls/C05/Human_Decision_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Do Not Contact",
+      "Customer Follow-up",
+      "Sales Coaching",
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "12216d5c-e254-52c6-b344-47de4c6e1ae5",
+    "record_ref": "C06",
+    "applied_source_revision": 1,
+    "title": "C06",
+    "person_label": "Ravi",
+    "transcript_available": true,
+    "suggested_routes": [
+      "Do Not Contact",
+      "Sales Coaching"
+    ],
+    "approved_routes": [
+      "Do Not Contact",
+      "Sales Coaching"
+    ],
+    "output_paths": [
+      "calls/C06/Do_Not_Contact.md",
+      "calls/C06/Sales_Coaching.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "pending",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Do Not Contact",
+      "Sales Coaching"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "428817fa-7e9e-5418-a7d4-bb396d28dfbf",
+    "record_ref": "C07",
+    "applied_source_revision": 1,
+    "title": "C07",
+    "person_label": "Dev",
+    "transcript_available": true,
+    "suggested_routes": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C07/Internal_Vendor_Notes.md",
+      "calls/C07/Deal_Next_Steps.md",
+      "calls/C07/Customer_Follow-up.md",
+      "calls/C07/Human_Decision_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "129497b2-8e1d-5e01-919c-e8a852b5ff68",
+    "record_ref": "C08",
+    "applied_source_revision": 1,
+    "title": "C08",
+    "person_label": "Meera",
+    "transcript_available": true,
+    "suggested_routes": [
+      "Customer Follow-up"
+    ],
+    "approved_routes": [
+      "Customer Follow-up"
+    ],
+    "output_paths": [
+      "calls/C08/Customer_Follow-up.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "pending",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Customer Follow-up"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "4a1de681-f884-55e8-b1ad-de22d17cd959",
+    "record_ref": "C09",
+    "applied_source_revision": 1,
+    "title": "C09",
+    "person_label": "Meera",
+    "transcript_available": true,
+    "suggested_routes": [
+      "Sales Coaching"
+    ],
+    "approved_routes": [
+      "Sales Coaching"
+    ],
+    "output_paths": [
+      "calls/C09/Sales_Coaching.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "pending",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Sales Coaching"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "b747f592-810e-583c-9b81-8db5ab035806",
+    "record_ref": "C10",
+    "applied_source_revision": 1,
+    "title": "C10",
+    "person_label": "Meera",
+    "transcript_available": true,
+    "suggested_routes": [
+      "Do Not Contact",
+      "Customer Follow-up"
+    ],
+    "approved_routes": [
+      "Do Not Contact",
+      "Customer Follow-up"
+    ],
+    "output_paths": [
+      "calls/C10/Do_Not_Contact.md",
+      "calls/C10/Customer_Follow-up.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "pending",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Do Not Contact",
+      "Customer Follow-up"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5111-a001-bc1234567801",
+    "record_ref": "C11",
+    "applied_source_revision": 1,
+    "title": "C11",
+    "person_label": "Kiran",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C11/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5112-a002-bc1234567802",
+    "record_ref": "C12",
+    "applied_source_revision": 1,
+    "title": "C12",
+    "person_label": "Dev",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C12/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5113-a003-bc1234567803",
+    "record_ref": "C13",
+    "applied_source_revision": 1,
+    "title": "C13",
+    "person_label": "Ravi",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C13/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5114-a004-bc1234567804",
+    "record_ref": "C14",
+    "applied_source_revision": 1,
+    "title": "C14",
+    "person_label": "Arun",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C14/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5115-a005-bc1234567805",
+    "record_ref": "C15",
+    "applied_source_revision": 1,
+    "title": "C15",
+    "person_label": "Meera",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C15/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5116-a006-bc1234567806",
+    "record_ref": "C16",
+    "applied_source_revision": 1,
+    "title": "C16",
+    "person_label": "Kiran",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C16/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5117-a007-bc1234567807",
+    "record_ref": "C17",
+    "applied_source_revision": 1,
+    "title": "C17",
+    "person_label": "Dev",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C17/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5118-a008-bc1234567808",
+    "record_ref": "C18",
+    "applied_source_revision": 1,
+    "title": "C18",
+    "person_label": "Ravi",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C18/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5119-a009-bc1234567809",
+    "record_ref": "C19",
+    "applied_source_revision": 1,
+    "title": "C19",
+    "person_label": "Arun",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C19/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5120-a010-bc1234567810",
+    "record_ref": "C20",
+    "applied_source_revision": 1,
+    "title": "C20",
+    "person_label": "Meera",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C20/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5121-a011-bc1234567811",
+    "record_ref": "C21",
+    "applied_source_revision": 1,
+    "title": "C21",
+    "person_label": "Kiran",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C21/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5122-a012-bc1234567812",
+    "record_ref": "C22",
+    "applied_source_revision": 1,
+    "title": "C22",
+    "person_label": "Dev",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C22/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5123-a013-bc1234567813",
+    "record_ref": "C23",
+    "applied_source_revision": 1,
+    "title": "C23",
+    "person_label": "Ravi",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C23/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5124-a014-bc1234567814",
+    "record_ref": "C24",
+    "applied_source_revision": 1,
+    "title": "C24",
+    "person_label": "Arun",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C24/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5125-a015-bc1234567815",
+    "record_ref": "C25",
+    "applied_source_revision": 1,
+    "title": "C25",
+    "person_label": "Meera",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C25/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5126-a016-bc1234567816",
+    "record_ref": "C26",
+    "applied_source_revision": 1,
+    "title": "C26",
+    "person_label": "Kiran",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C26/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5127-a017-bc1234567817",
+    "record_ref": "C27",
+    "applied_source_revision": 1,
+    "title": "C27",
+    "person_label": "Dev",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C27/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5128-a018-bc1234567818",
+    "record_ref": "C28",
+    "applied_source_revision": 1,
+    "title": "C28",
+    "person_label": "Ravi",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C28/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5129-a019-bc1234567819",
+    "record_ref": "C29",
+    "applied_source_revision": 1,
+    "title": "C29",
+    "person_label": "Arun",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C29/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "call",
+    "source_id": "a1b2c3d4-e5f6-5130-a020-bc1234567820",
+    "record_ref": "C30",
+    "applied_source_revision": 1,
+    "title": "C30",
+    "person_label": "Meera",
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "calls/C30/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "cb5cecac-e68d-52b7-b10b-b0c748efc467",
+    "record_ref": "M01",
+    "applied_source_revision": 1,
+    "title": "Harborpath Advisory / SpendNest discussion",
+    "person_label": null,
+    "transcript_available": true,
+    "suggested_routes": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M01/Internal_Vendor_Notes.md",
+      "meetings/M01/Deal_Next_Steps.md",
+      "meetings/M01/Customer_Follow-up.md",
+      "meetings/M01/Human_Decision_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "1a21c409-c050-5787-90af-2667e057e1b6",
+    "record_ref": "M02",
+    "applied_source_revision": 1,
+    "title": "LedgerBridge / SpendNest discussion",
+    "person_label": null,
+    "transcript_available": true,
+    "suggested_routes": [
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Sales Coaching",
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Sales Coaching",
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M02/Deal_Next_Steps.md",
+      "meetings/M02/Customer_Follow-up.md",
+      "meetings/M02/Sales_Coaching.md",
+      "meetings/M02/Human_Decision_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Needs Review",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Sales Coaching",
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "398672e7-62dd-5afd-846d-0237d49792fb",
+    "record_ref": "M03",
+    "applied_source_revision": 1,
+    "title": "Asterloom Systems / SpendNest discussion",
+    "person_label": null,
+    "transcript_available": true,
+    "suggested_routes": [
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M03/Deal_Next_Steps.md",
+      "meetings/M03/Customer_Follow-up.md",
+      "meetings/M03/Human_Decision_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Needs Review",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "7f3a9b2c-1d4e-5f6a-b7c8-d9e0f1a2b3c4",
+    "record_ref": "M04",
+    "applied_source_revision": 1,
+    "title": "Pinecroft Solutions / SpendNest vendor onboarding",
+    "person_label": null,
+    "transcript_available": true,
+    "suggested_routes": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M04/Internal_Vendor_Notes.md",
+      "meetings/M04/Deal_Next_Steps.md",
+      "meetings/M04/Customer_Follow-up.md",
+      "meetings/M04/Human_Decision_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "2e3f4a5b-6c7d-5e8f-9a0b-1c2d3e4f5a6b",
+    "record_ref": "M05",
+    "applied_source_revision": 1,
+    "title": "Ridgeline Capital / SpendNest expense audit review",
+    "person_label": null,
+    "transcript_available": true,
+    "suggested_routes": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M05/Internal_Vendor_Notes.md",
+      "meetings/M05/Deal_Next_Steps.md",
+      "meetings/M05/Customer_Follow-up.md",
+      "meetings/M05/Human_Decision_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "3b4c5d6e-7f8a-5b9c-0d1e-2f3a4b5c6d7e",
+    "record_ref": "M06",
+    "applied_source_revision": 1,
+    "title": "Thornwick Retail / SpendNest multi-location cards pilot",
+    "person_label": null,
+    "transcript_available": true,
+    "suggested_routes": [
+      "No Action Required"
+    ],
+    "approved_routes": [
+      "No Action Required"
+    ],
+    "output_paths": [
+      "meetings/M06/No_Action_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "pending",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "No Action Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "f9e8d7c6-b5a4-5938-8271-6f5e4d3c2b1a",
+    "record_ref": "M07",
+    "applied_source_revision": 2,
+    "title": "Glenwood Partners / SpendNest partnership expansion",
+    "person_label": null,
+    "transcript_available": true,
+    "suggested_routes": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Internal/Vendor Notes",
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M07/Internal_Vendor_Notes.md",
+      "meetings/M07/Human_Decision_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "approved",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "pending-review",
+    "manual_override": true,
+    "original_ai_recommendation": [
+      "Internal/Vendor Notes",
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "4c5d6e7f-8a9b-5c0d-1e2f-3a4b5c6d7e8f",
+    "record_ref": "M08",
+    "applied_source_revision": 1,
+    "title": "Clearwater Freight / SpendNest payment automation",
+    "person_label": null,
+    "transcript_available": true,
+    "suggested_routes": [
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M08/Deal_Next_Steps.md",
+      "meetings/M08/Customer_Follow-up.md",
+      "meetings/M08/Human_Decision_Required.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Needs Review",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Deal Next Steps",
+      "Customer Follow-up",
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "5d6e7f8a-9b0c-5d1e-2f3a-4b5c6d7e8f9a",
+    "record_ref": "M09",
+    "applied_source_revision": 1,
+    "title": "Brackenfell Media / SpendNest introductory call",
+    "person_label": null,
+    "transcript_available": true,
+    "suggested_routes": [
+      "Customer Follow-up"
+    ],
+    "approved_routes": [
+      "Customer Follow-up"
+    ],
+    "output_paths": [
+      "meetings/M09/Customer_Follow-up.md",
+      "summaries/manager_brief_2026-08-21.md"
+    ],
+    "processing_review_state": "pending",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Customer Follow-up"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "6e7f8a9b-0c1d-5e2f-3a4b-5c6d7e8f9a0b",
+    "record_ref": "M10",
+    "applied_source_revision": 1,
+    "title": "Sandstone Group / SpendNest no-speech",
+    "person_label": null,
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M10/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "7f8a9b0c-1d2e-5f3a-4b5c-6d7e8f9a0b1c",
+    "record_ref": "M11",
+    "applied_source_revision": 1,
+    "title": "Fieldstone Analytics / SpendNest no-speech",
+    "person_label": null,
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M11/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "8a9b0c1d-2e3f-5a4b-5c6d-7e8f9a0b1c2d",
+    "record_ref": "M12",
+    "applied_source_revision": 1,
+    "title": "Westbrook Imports / SpendNest no-speech",
+    "person_label": null,
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M12/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "9b0c1d2e-3f4a-5b5c-6d7e-8f9a0b1c2d3e",
+    "record_ref": "M13",
+    "applied_source_revision": 1,
+    "title": "Lakewood Solutions / SpendNest no-speech",
+    "person_label": null,
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M13/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  },
+  {
+    "source_type": "meeting",
+    "source_id": "0c1d2e3f-4a5b-5c6d-7e8f-9a0b1c2d3e4f",
+    "record_ref": "M14",
+    "applied_source_revision": 1,
+    "title": "Cresthaven Logistics / SpendNest no-speech",
+    "person_label": null,
+    "transcript_available": false,
+    "suggested_routes": [
+      "Human Decision Required"
+    ],
+    "approved_routes": [
+      "Human Decision Required"
+    ],
+    "output_paths": [
+      "meetings/M14/Human_Decision_Required.md"
+    ],
+    "processing_review_state": "needs_review",
+    "evidence_validation_status": "Verified",
+    "analysis_freshness": "current",
+    "manual_override": false,
+    "original_ai_recommendation": [
+      "Human Decision Required"
+    ]
+  }
+]

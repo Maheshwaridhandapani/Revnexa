@@ -1,0 +1,17 @@
+{
+  "name": "revnexa-server",
+  "version": "1.0.0",
+  "description": "Revnexa Evidence-First Revenue Intelligence Platform — Backend",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node --experimental-sqlite src/server.js",
+    "dev": "node --experimental-sqlite --watch src/server.js",
+    "test": "node --experimental-sqlite --test tests/*.test.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3"
+  },
+  "devDependencies": {}
+}
